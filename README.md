@@ -266,7 +266,7 @@ MIT License - Feel free to use for learning and production!
 ## 👤 Author
 
 **Keshav Sharma**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/keshavsharma804)
 - Docker Hub: [@keshavsharma804](https://hub.docker.com/u/keshavsharma804)
 
 ## 🙏 Acknowledgments
